@@ -22,8 +22,8 @@ export const backendConfig = {
 
   // base: "http://localhost:8024/api",
   // origin: "http://localhost:8024",
-  base: "http://localhost:5008/api",
-  origin: "http://localhost:5008",
+  base: "https://api.tonex.space",
+  origin: "https://api.tonex.space/api",
   // base: "https://api.auravest.world/api",
   // origin: "https://api.auravest.world/",
   // base: "https://api.rbncropscience.in/api",
